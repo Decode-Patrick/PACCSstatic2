@@ -95,3 +95,13 @@ h1{
     padding: 20px;
     text-align: center;
   }
+
+.bubble h2 {
+    font-size: h2;
+    color: black
+}
+
+.bubble h5 {
+    font-size: h5;
+    color: black
+}
